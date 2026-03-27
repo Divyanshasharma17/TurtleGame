@@ -1,5 +1,4 @@
 🐢 Turtle Dodge Game
-
 A simple and fun arcade-style dodge game built using Python’s built-in turtle module.
 Control the turtle and dodge falling enemies to achieve the highest score!
 
